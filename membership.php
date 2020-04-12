@@ -11,7 +11,11 @@ ini_set('dispaly_errors',1);
       }
  $id = base64_decode($id);
  $row=$user->getUserDetails($id);
-if($row['paid']=='Y') { $user->redirect("index.php"); }
+
+ // if already paid redirect to index page
+if($row['paid']=='Y') {
+ $user->redirect("index.php");
+  }
 
 ?>
 
