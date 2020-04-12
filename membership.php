@@ -7,16 +7,13 @@ ini_set('dispaly_errors',1);
 
     if (empty($_GET['userpayment']))
        {
-       //  $user->redirect('index.php');
+         $user->redirect('index.php');
       }
  $id = base64_decode($id);
-
  $row=$user->getUserDetails($id);
 if($row['paid']=='Y') { $user->redirect("index.php"); }
 
 ?>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
