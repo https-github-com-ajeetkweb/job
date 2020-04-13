@@ -56,8 +56,8 @@ return $string;
 }
 $otp2=getotp();
 
-$apikey = "A79c3dee20e69c31431e858d7a728f271";
-$apisender = "MEEMSM";
+$apikey = "A79c3dee20e6";
+$apisender = "ADSDASDSA";
 //Your message to send.
 $ms = urlencode("Welcome To MeeM.one Job Portal. Your verification code is $otp2, Enter this code to register as Employer. Thank you!");
 //Define route 
@@ -80,7 +80,7 @@ $postData = array(
 'route' => $route
 );
 //API URL
-$url="https://global.solutionsinfini.com/api/v4/?api_key=A79c3dee20e69c31431e858d7a728f271&method=sms&message=$ms&to=$num&sender=MEEMSM";
+$url="https://solutionsin.com/api/v4/?api_key=A79c3dee20e&method=sms&message=$ms&to=$num&sender=BCVBC";
 // init the resource
 $ch = curl_init();
 curl_setopt_array($ch, array(
