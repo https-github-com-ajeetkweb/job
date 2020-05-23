@@ -1,6 +1,5 @@
 <?php
  header("Access-Control-Allow-Origin: *");
-// header('Access-Control-Allow-Origin: https://www.meem.one')
 header("Content-Type: application/json; charset=UTF-8");
 include("../include/class.user.php");
 $user=new USER();
