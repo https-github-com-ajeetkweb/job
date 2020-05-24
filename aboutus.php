@@ -32,8 +32,8 @@
                <div class="col-md-4 col-sm-3 yes_mar">
                   <div class="logo"><a href="index.php"><img src="images/logo.png" alt="logo" class="hidden-xs"> </a>
 				  <img src="images/logo_m.png" alt="logo" class="visible-xs m_mobile">
-				  <span class="lgo_font hidden-xs">Job Portal</span>
-				  <span class="job_mlogo visible-xs">Job Portal</span>
+				  <span class="lgo_font hidden-xs">Job Portal 2020</span>
+				  <span class="job_mlogo visible-xs">Job Portal 2020</span>
 				  </div>
 				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                </div>
