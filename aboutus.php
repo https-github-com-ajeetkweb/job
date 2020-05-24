@@ -6,10 +6,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<<<<<<< HEAD
-
-=======
->>>>>>> branch_1
 <title>MeeM.one - Job Portal 2020</title>
 
 <!-- Fav Icon -->
@@ -26,6 +22,7 @@
 
 </head>
 <body>
+	<h2>welcome job portal</h2>
 	<h2>welcome job portal</h2>
 <!--header start-->
       <div class="header-wrap">
