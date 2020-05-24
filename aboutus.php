@@ -48,8 +48,9 @@
                            <ul class="nav navbar-nav">
                               <li class="dropdown"> <a href="index.php"> Home </a>
                               </li>
-                              <li> <a href="aboutus.php" class="active"> AboutUs</a></li>
-                              <li> <a href="contactus.php"> Contactus </a></li>
+
+                              <li> <a href="aboutus.php" class="active"> About Us</a></li>
+                              <li> <a href="contactus.php"> Contact us </a></li>
                            </ul>
                         </div>
                         <div class="clearfix"></div>
