@@ -6,6 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
 <title>MeeM.one - Job Portal 2019</title>
 
 <!-- Fav Icon -->
@@ -32,8 +33,8 @@
                <div class="col-md-4 col-sm-3 yes_mar">
                   <div class="logo"><a href="index.php"><img src="images/logo.png" alt="logo" class="hidden-xs"> </a>
 				  <img src="images/logo_m.png" alt="logo" class="visible-xs m_mobile">
-				  <span class="lgo_font hidden-xs">Job Portal</span>
-				  <span class="job_mlogo visible-xs">Job Portal</span>
+				  <span class="lgo_font hidden-xs">Job Portal 2020</span>
+				  <span class="job_mlogo visible-xs">Job Portal 2020</span>
 				  </div>
 				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                </div>
@@ -48,8 +49,9 @@
                            <ul class="nav navbar-nav">
                               <li class="dropdown"> <a href="index.php"> Home </a>
                               </li>
-                              <li> <a href="aboutus.php" class="active"> AboutUs</a></li>
-                              <li> <a href="contactus.php"> Contactus </a></li>
+
+                              <li> <a href="aboutus.php" class="active"> About Us</a></li>
+                              <li> <a href="contactus.php"> Contact us </a></li>
                            </ul>
                         </div>
                         <div class="clearfix"></div>
